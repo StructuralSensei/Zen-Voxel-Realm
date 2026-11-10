@@ -35,9 +35,9 @@ Download `zen-voxel-realms.html` and double-click it. That's the whole setup.
 
 <p align="center">
   <!-- 📸 SCREENSHOT: night scene with campfire + fireflies -->
-  <img src="docs/media/night-campfire.png" alt="Campfire at night with fireflies" width="390">
+  <img src="night-campfire.png" alt="Campfire at night with fireflies" width="390">
   <!-- 📸 SCREENSHOT: rain over the river and bridges -->
-  <img src="docs/media/rain-river.png" alt="Rain over the river" width="390">
+  <img src="rain-river.png" alt="Rain over the river" width="390">
 </p>
 
 ### 🧱 Build
@@ -49,7 +49,7 @@ Download `zen-voxel-realms.html` and double-click it. That's the whole setup.
 
 <p align="center">
   <!-- 🎬 GIF: placing blocks to build a small house, opening the door -->
-  <img src="docs/media/building.gif" alt="Building a house" width="600">
+  <img src="building.gif" alt="Building a house" width="600">
 </p>
 
 ### 🎣 Survive
