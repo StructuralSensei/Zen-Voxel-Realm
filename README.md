@@ -5,7 +5,7 @@ Wander, build a cabin, fish in the river, hunt for dinner, catch creatures with 
 
 <p align="center">
   <!-- 🎬 HERO GIF: 10–15s loop of walking through the world at golden hour -->
-  <img src="docs/media/hero.gif" alt="Zen Voxel Realms gameplay" width="800">
+  <img src="preview.gif" alt="Zen Voxel Realms gameplay" width="800">
 </p>
 
 <p align="center">
@@ -20,9 +20,7 @@ Wander, build a cabin, fish in the river, hunt for dinner, catch creatures with 
 
 ## ▶ Play now
 
-> **Live demo:** `https://YOUR-USERNAME.github.io/zen-voxel-realms/` <!-- replace once GitHub Pages is on -->
-
-Or download `zen-voxel-realms.html` and double-click it. That's the whole setup.
+Download `zen-voxel-realms.html` and double-click it. That's the whole setup.
 
 ---
 
