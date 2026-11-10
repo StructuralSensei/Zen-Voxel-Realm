@@ -64,9 +64,9 @@ Download `zen-voxel-realms.html` and double-click it. That's the whole setup.
 
 <p align="center">
   <!-- 📸 SCREENSHOT: inventory panel -->
-  <img src="docs/media/inventory.png" alt="Inventory screen" width="390">
+  <img src="inventory.png" alt="Inventory screen" width="390">
   <!-- 🎬 GIF: shooting a bird with the bow -->
-  <img src="docs/media/bow.gif" alt="Shooting a bird with the bow" width="390">
+  <img src="bow.gif" alt="Shooting a bird with the bow" width="390">
 </p>
 
 ### 🔴 Catch & battle
